@@ -1,6 +1,9 @@
 # luci-theme-neobird
 ## 针对移动端优化的Openwrt主题
 
+For Lean's OpenWRT Only
+https://github.com/coolsnowwolf/lede
+
 六年前用OP，随手把luci-theme-material改成了自己喜欢的Advancedtomato样式
 因为用了很短时间便没再用OP了，主题也没再管。
 后来便有了lede固件默认使用material主题的修改版做主题，包括今天的luci-theme-netgear和luci-theme-argon还是我的思路，不过都不是我喜欢的样子。
@@ -33,13 +36,12 @@
 * luci插件众多，不规范的插件可能会存在显示问题，不做保证
 
 ## 预览
-![macOS](https://github.com/thinktip/luci-theme-neobird/blob/main/preview/macOS_S1.png)
-![macOS](https://github.com/thinktip/luci-theme-neobird/blob/main/preview/macOS_S2.png)
-![macOS](https://github.com/thinktip/luci-theme-neobird/blob/main/preview/macOS_S3.png)
-![iOS](https://github.com/thinktip/luci-theme-neobird/blob/main/preview/IMG_5916.JPEG)
-![iOS](https://github.com/thinktip/luci-theme-neobird/blob/main/preview/IMG_5915.JPEG)
-![iOS](https://github.com/thinktip/luci-theme-neobird/blob/main/preview/IMG_5909.JPEG)
-![iPadOS](https://github.com/thinktip/luci-theme-neobird/blob/main/preview/IMG_0103.JPEG)
+![macOS](https://github.com/thinktip/luci-theme-neobird/blob/main/preview/SCR-20220223-iw6.png)
+![macOS](https://github.com/thinktip/luci-theme-neobird/blob/main/preview/SCR-20220223-iwp.png)
+![macOS](https://github.com/thinktip/luci-theme-neobird/blob/main/preview/SCR-20220223-j1l.png)
+![iOS](https://github.com/thinktip/luci-theme-neobird/blob/main/preview/IMG_6478.PNG)
+![iOS](https://github.com/thinktip/luci-theme-neobird/blob/main/preview/IMG_6481.PNG)
+![iOS](https://github.com/thinktip/luci-theme-neobird/blob/main/preview/IMG_6474.PNG)
 ## 自行编译：
 
 ```
